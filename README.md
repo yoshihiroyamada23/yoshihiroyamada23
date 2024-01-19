@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my programming skills**
 
-- 🌱 I’m currently learning **JavaScript,React.js,Ruby,Ruby on Rails,PostgreSQL**
+- 🌱 I’m currently learning **JavaScript, React.js, Ruby, Ruby on Rails, PostgreSQL**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Ruby, Ruby on Rails**
 
