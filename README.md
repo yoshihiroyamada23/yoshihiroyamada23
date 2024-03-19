@@ -10,7 +10,8 @@
 - 📫 How to reach me **yoshihiro.yamada1995@gmail.com**
 
 - ⚡ Fun fact **I love playing computer games.**
--PORTFOLIO: https://yoshihiroyamada.netlify.app
+
+- PORTFOLIO: https://yoshihiroyamada.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
